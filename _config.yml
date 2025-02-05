@@ -1,4 +1,4 @@
-title: Majelis Syuro Nasional
+title: FAQ Pemilihan
 author:
   name: isandroid
   # email: your-email@domain.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Catatan Terbuka Majelis Syuro Nasional
+  Pertanyaan-pertanyaan yang sering diajukan mengenai Pemilihan
 
 # Build settings
 

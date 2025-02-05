@@ -6,9 +6,9 @@ tag: bagaimana
 
 1. Pembayar [candah](/kamus/candah.html) [Ansar](/kamus/ansar.html) + [Khuddam](/kamus/khuddam.html) baik yang [dawam](/kamus/dawam.html) maupun yang tidak dawam.
 
-2. [Kuorum](/kamus/kuorum.html) pemilihan adalah 50% dari total jumlah pembayar [candah](/kamus/candah.html) (poin-1)
+2. [Kuorum](/kamus/kuorum.html) pemilihan adalah 50% (setengah) dari total jumlah pembayar [candah](/kamus/candah.html) (poin-1)
 
-3. Jika pertemuan pertama tidak memenuhi [kuorum](/kamus/kuorum.html), maka pertemuan selanjutnya harus 1/3 dari jumlah (poin-1)
+3. Jika pertemuan pertama tidak memenuhi [kuorum](/kamus/kuorum.html), maka pertemuan selanjutnya harus 1/3 (sepertiga) dari jumlah (poin-1)
 
 ### Contoh
 
@@ -22,8 +22,8 @@ Jika di satu Jemaat Lokal terdapat:
 
 - 05 Khuddam pembayar candah tidak dawam
 
-- Jadi total ada 60 orang pembayar candah
+- Jadi total ada 60 orang pembayar candah (poin-1)
 
-- Maka jumlah [Kuorum](/kamus/kuorum.html) pemilihan pertama adalah 50% (setengah) dari 60 orang yaitu 30 orang
+- Maka jumlah [Kuorum](/kamus/kuorum.html) pemilihan pertama adalah 50% (setengah) dari 60 orang yaitu 30 orang (poin-2)
 
-- Jika di pemilihan pertama tidak bisa terlaksana maka [kuorum](/kamus/kuorum.html) untuk pertemuan selanjutnya adalah 1/3 (sepertiga) dari 60 orang yaitu 20 orang.  
+- Jika di pemilihan pertama tidak bisa terlaksana maka [kuorum](/kamus/kuorum.html) untuk pertemuan selanjutnya adalah 1/3 (sepertiga) dari 60 orang yaitu 20 orang. (poin-3)

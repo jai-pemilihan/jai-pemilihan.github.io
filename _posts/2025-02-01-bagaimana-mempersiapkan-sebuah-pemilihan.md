@@ -14,4 +14,8 @@ tag: bagaimana
 
 5. Whatsapp hanya digunakan sebagai informasi dan pengingat.
 
-6. Tanggal dan tempat rapat pemilihan harus diumumkan secara luas sekurang-kurangnya 15 hari sebelum tanggal yang ditentukan. Harus diupayakan sedapat-dapatnya agar semua anggota yang berhak memilih mengetahui informasi tersebut
+6. Tanggal dan tempat rapat pemilihan harus diumumkan secara luas sekurang-kurangnya 15 hari sebelum tanggal yang ditentukan. 
+
+7. Harus diupayakan sedapat-dapatnya agar semua anggota yang berhak memilih mengetahui informasi tersebut.
+
+8. Undangan tertulis disampaikan secara langsung dan sedapat mungkin konfirmasi kehadiran. 
