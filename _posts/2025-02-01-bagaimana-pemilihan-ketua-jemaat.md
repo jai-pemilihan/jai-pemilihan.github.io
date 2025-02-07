@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bagaimana Ketentuan Pemilihan Ketua Jemaat?"
+title: "Bagaimana Pemilihan Ketua Jemaat?"
 tag: bagaimana
 ---
 
